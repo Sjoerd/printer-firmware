@@ -189,7 +189,7 @@
  *               _____                                              _____
  *           NC | 1 2 | GND                                     5V | 1 2 | GND
  *        RESET | 3 4 | 1.31 (SD_DETECT)             (LCD_D7) 1.23 | 3 4 | 1.22 (LCD_D6)
- *  (MOSI) 0.18 | 5 6   3.25 (BTN_EN2)               (LCD_D5) 1.21 | 5 6   1.20 (LCD_D4)
+ *  (MOSI) 0.18 | 5 6   3.25 (BTN_EN2)               (LCD_D5) 1.21 | 5 6 | 1.20 (LCD_D4)
  * (SD_SS) 0.16 | 7 8 | 3.26 (BTN_EN1)               (LCD_RS) 1.19 | 7 8 | 1.18 (LCD_EN)
  *   (SCK) 0.15 | 9 10| 0.17 (MISO)                 (BTN_ENC) 0.28 | 9 10| 1.30 (BEEPER)
  *               -----                                              -----
